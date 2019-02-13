@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "368362921716",
+    "firebase_url": "https://week6daily2homeassignment.firebaseio.com",
+    "project_id": "week6daily2homeassignment",
+    "storage_bucket": "week6daily2homeassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368362921716:android:4788dba6e01d0ece",
+        "android_client_info": {
+          "package_name": "com.example.week6daily2homeassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368362921716-3bds1dud9gcvbmkov0m2t8m6l6d3274g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.week6daily2homeassignment",
+            "certificate_hash": "4e3efdde6c0c30f0d3ca6e40a5b7985f591453e3"
+          }
+        },
+        {
+          "client_id": "368362921716-b8j1ahecq1srku3cduh881poadabc1hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpdBySrk-HhnB8FgPJS5LsmY0gJYpQv44"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368362921716-b8j1ahecq1srku3cduh881poadabc1hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
